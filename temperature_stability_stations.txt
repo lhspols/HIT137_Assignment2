@@ -1,0 +1,2 @@
+Most Stable: Station CAPE-BRUNY-LIGHTHOUSE: StdDev 3.4°C
+Most Variable: Station MARBLE-BAR: StdDev 8.9°C
